@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Hola Mundo para todos y es gratis
-=======
-primer prueba
->>>>>>> 1285cb0... nuevo caambio
+
+
